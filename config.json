@@ -1,0 +1,183 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "MAINTENANCE_MODE": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😴"
+    },
+    "notiGroup": false,
+    "NOTIFICATION": true,
+    "allowInbox": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "autoClean": true,
+    "adminOnly": false,
+    "UPTIME": 1231526.035836716,
+    "ACCESSTOKEN": "EAAGNO4a7r2wBO36PZAUuq8HYZBK2sKlxVuOPTwsYMuFptOWamB2wLZC3xnDhZBTtSP7R5uIJCdtWxQEkQ69t01T1LYVSZCrZAXg0yvt4jfIOQsPYR0dsWwlW17uLpAVozTSghHCM16a99BnK5IVZC0wO9oqhXqXRZAzpMdyHZC2uZCEor4b0W1DzwPDMvSwdN2Cgj21gZDZD",
+    "BOXNOTI": "6620227634772011",
+    "BOTNAME": "Lunar",
+    "AMDIN_NAME": "Lương Trường Khôi",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/LuongTruongKhoi.Profile",
+    "MESSENGER_ADMIN": "m.me/LuongTruongKhoi.Profile",
+    "ZALO_ADMIN": "0345451805",
+    "TELEGRAM_ADMIN": "t.me/TrKhoi_Media",
+    "PREFIX": ".",
+    "ADMINBOT": [
+        "100018277053087",
+        "100002297532681"
+    ],
+    "NDH": [
+        "100018277053087",
+        "100002297532681"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "antists.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "1.2.15",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 90
+        }
+    },
+    "log": {
+        "enable": true
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 100000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "cauca": {
+        "APIKEY": ""
+    },
+    "spam": {
+        "spamDelay": 2
+    },
+    "sub1": {
+        "cooldownTime": 60000
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "hamster": {
+        "cooldownTime": 60
+    },
+    "cavev2": {
+        "cooldownTime": 1200000
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "anti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "kicktag": {
+        "kickTagDelay": 1
+    },
+    "spamtag": {
+        "spamDelay": 2
+    },
+    "cave": {
+        "cooldownTime": 200000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "simsimi": {
+        "APIKEY": "mzk_NZTUMEHKNZ2R0QVRCIU"
+    },
+    "adminupdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 60
+    },
+    "goibot": {
+        "APIKEY": "LUVMIN"
+    },
+    "kiemtien": {
+        "cooldownTime": 1800000
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "cavee": {
+        "cooldownTime": 100000
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "anh": {
+        "cooldownTime": 1200000
+    },
+    "lixi": {
+        "cooldownTime": 1200000
+    },
+    "botnoname": {
+        "status": true
+    },
+    "buku": {
+        "fb_token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "docute": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "nganhang": {
+        "key": "DUBFREE"
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "teach": {
+        "APIKEY": ""
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "yt": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "chuirieng": {
+        "spamDelay": 2
+    },
+    "checknude": {
+        "maxColumn": ""
+    }
+}

@@ -1,0 +1,56 @@
+language = "bash"
+run = "npm run start"
+modules = ["nodejs-20", "nix", "bash"]
+
+[languages]
+
+[languages.bash]
+pattern = "**/{*.sh,*.bash}"
+
+[languages.bash.languageServer]
+start = "bash-language-server start"
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "npm run start"]
+
+[[ports]]
+localPort = 80
+externalPort = 5173
+
+[[ports]]
+localPort = 3000
+externalPort = 5000
+
+[[ports]]
+localPort = 4000
+externalPort = 80
+
+[[ports]]
+localPort = 37069
+externalPort = 3002
+
+[[ports]]
+localPort = 39647
+externalPort = 3001
+
+[[ports]]
+localPort = 40687
+externalPort = 3000
+
+[[ports]]
+localPort = 41849
+externalPort = 3003
+
+[[ports]]
+localPort = 43487
+externalPort = 6000
+
+[[ports]]
+localPort = 43605
+
+[[ports]]
+localPort = 45691
+externalPort = 4200
